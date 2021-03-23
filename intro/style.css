@@ -32,5 +32,13 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 .container {
   display:flex;
   border:10px solid goldenrod;
-  height:100vh;
+  /* height:100vh; */
+}
+
+.box {
+  flex: 1;
+}
+
+.box10 {
+  flex: 0;
 }
